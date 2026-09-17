@@ -1,12 +1,8 @@
 # Vincent Tuan
 
-Founder & CEO at [Coryntas](https://coryntas.com).
+I work on AI systems and am building [Coryntas](https://coryntas.com).
 
-I founded Coryntas to help businesses put AI to practical use. I lead the company's direction, from deciding which customer problems to solve to shaping the product and the business around them.
-
-My background is in developing AI systems. As CEO, I focus on understanding customers, setting priorities, and taking responsibility for what we promise and deliver.
-
-I write about enterprise AI, the decisions behind its adoption, and what it takes to make it useful in practice.
+I write about how AI changes the way businesses work: what it can take on, where human judgment matters, and why promising demos often fall short in practice.
 
 ## Writing and resources
 
