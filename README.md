@@ -2,14 +2,11 @@
 
 Founder & CEO at [Coryntas](https://coryntas.com).
 
-I build enterprise AI and agent systems around a practical goal: helping people finish real business work. At Coryntas, that means bringing business context, agent execution, and ongoing operations together.
+I founded Coryntas to help businesses put AI to practical use. I lead the company's direction, from deciding which customer problems to solve to shaping the product and the business around them.
 
-## What I work on
+My background is in developing AI systems. As CEO, I focus on understanding customers, setting priorities, and taking responsibility for what we promise and deliver.
 
-- **Business context:** helping agents use the knowledge, relationships, and operating practices behind a task.
-- **Agent execution:** connecting tools and workflows so an agent can move work toward a useful result.
-- **Governance and evaluation:** defining permissions, human review, and checks that make agent behavior accountable.
-- **Production operations:** improving agents as business needs, models, and systems change.
+I write about enterprise AI, the decisions behind its adoption, and what it takes to make it useful in practice.
 
 ## Writing and resources
 
