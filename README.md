@@ -8,7 +8,7 @@ I write about how AI changes the way businesses work: what it can take on, where
 
 - [Coryntas Insights](https://coryntas.com/blog) — articles on enterprise agents, context, and governed execution.
 - [AI Agents for Business](https://github.com/coryntas/ai-agents-for-business) — Coryntas's practical handbook for choosing, piloting, and operating agents.
-- [DEV Community](https://dev.to/vincent_tuan)
+- [DEV Community](https://dev.to/vincent-kest)
 - [Medium](https://medium.com/@vincentkest)
 
 ## Connect
